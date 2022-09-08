@@ -1,0 +1,17 @@
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.exe
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.deps.json
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.runtimeconfig.json
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.runtimeconfig.dev.json
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.dll
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\ScratchPad.pdb
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.csproj.AssemblyReference.cache
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.AssemblyInfoInputs.cache
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.AssemblyInfo.cs
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.csproj.CoreCompileInputs.cache
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.csproj.CopyComplete
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.dll
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.pdb
+C:\Users\12537\source\repos\SocketsProgramming\ScratchPad\obj\Debug\netcoreapp3.1\ScratchPad.genruntimeconfig.cache
